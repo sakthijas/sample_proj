@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3363" started-at="2019-03-26T05:12:41Z" finished-at="2019-03-26T05:12:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3363" started-at="2019-03-26T05:12:41Z" finished-at="2019-03-26T05:12:45Z">
+      <class name="sample_proj.Sample_binary_proj">
+        <test-method status="PASS" signature="setup()[pri:0, instance:sample_proj.Sample_binary_proj@5b275dab]" name="setup" is-config="true" duration-ms="15939" started-at="2019-03-26T05:12:25Z" finished-at="2019-03-26T05:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:sample_proj.Sample_binary_proj@5b275dab]" name="test1" duration-ms="3342" started-at="2019-03-26T05:12:41Z" finished-at="2019-03-26T05:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:sample_proj.Sample_binary_proj@5b275dab]" name="teardown" is-config="true" duration-ms="2170" started-at="2019-03-26T05:12:45Z" finished-at="2019-03-26T05:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- sample_proj.Sample_binary_proj -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
